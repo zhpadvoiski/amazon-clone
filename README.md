@@ -1,5 +1,9 @@
 # Amazon Clone
 
-> Built with: ReactJS, Hooks, React-Router, Next.js, Stripe
+Built with: ReactJS, Hooks, React-Router, Next.js, Stripe
 
-> Deployed with Vercel: **[Visit Website](https://amazon-clone-next-js-five.vercel.app/)**
+Deployed on Vercel: **[https://amazon-clone-project-five.vercel.app](https://netflix-clone-rouge.vercel.app/)**
+
+![](img/amazon-clone-1.png)
+
+![](img/amazon-clone-2.png)
